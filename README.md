@@ -1,4 +1,4 @@
-# 4610-Group-Project-1
+# Team ns_21479_4
 # Group Project Chick-fil-a Data Model
 
 ## Group Repositories
